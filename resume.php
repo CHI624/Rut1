@@ -369,7 +369,7 @@
             <h1 class="name">MY RESUME</h1>
             <div class="box">
             <div class="inner-box">
-                <img src="photos_videos/Data Science Resume_Sep 2025 - Victor C. Agbara.png" id="resumeimage" class="victor_pic">
+                <img src="photos_videos/template5.jpg" id="resumeimage" class="victor_pic">
     </img>
             </div>
             <button id ="expandButton" class="expand">EXPAND RESUME</button>
